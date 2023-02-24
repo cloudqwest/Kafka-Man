@@ -26,7 +26,7 @@
     "@types/canvasjs": "^1.9.5",
     "@types/js-yaml": "^3.12.2",
     "@types/lodash": "^4.14.149",
-    "actioncable": "^5.2.4-1",
+    "actioncable": "^5.2.8",
     "bootstrap": "^4.4.1",
     "chartist": "^0.11.4",
     "chartist-plugin-axistitle": "0.0.7",
