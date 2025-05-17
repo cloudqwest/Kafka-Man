@@ -66,7 +66,7 @@ gem 'sqlite3'
 # gem 'ruby-kafka', git: 'https://github.com/blazeey/ruby-kafka', branch: 'master'
 gem 'ruby-kafka', git: 'https://github.com/blazeey/ruby-kafka', branch: 'master'
 
-gem 'rack-cors'
+gem 'rack-cors', '>= 3.0.0'
 
 gem 'snappy'
 
